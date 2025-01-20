@@ -24,6 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2025-01-20 at 2 04 31 PM](https://github.com/user-attachments/assets/64124b22-6777-48b5-89df-568b40ed9cd1)
+![Screenshot 2025-01-20 at 2 05 49 PM](https://github.com/user-attachments/assets/66943a28-bb76-47ce-b61c-c983ac08e863)
+![Screenshot 2025-01-20 at 2 06 04 PM](https://github.com/user-attachments/assets/862c3fe8-0a7d-4ba7-9b59-a0a9b7c1da94)
+
 ### Built with
 
 - Flexbox
